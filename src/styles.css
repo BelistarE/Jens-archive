@@ -1,0 +1,15 @@
+/* styles.css */
+@import url('reset.css');
+
+:root {
+    --accent-color: #67cfa7;
+    --body-color: #242424;
+  }
+
+/* ----------main style ----------*/
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--body-color);
+    color: white;
+  }
